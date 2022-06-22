@@ -1,11 +1,6 @@
 
 namespace Facebook\Authentication;
 
-/**
- * Class AccessToken
- *
- * @package Facebook
- */
 class AccessToken
 {
     /**
